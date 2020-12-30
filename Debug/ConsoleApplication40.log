@@ -1,0 +1,8 @@
+﻿  ConsoleApplication40.cpp
+C:\Users\dell\source\repos\ConsoleApplication40\ConsoleApplication40\Scan.h(43,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\ConsoleApplication40\ConsoleApplication40\Scan.h(65,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\ConsoleApplication40\ConsoleApplication40\look.h(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\ConsoleApplication40\ConsoleApplication40\look.h(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\ConsoleApplication40\ConsoleApplication40\clook.h(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\ConsoleApplication40\ConsoleApplication40\clook.h(77,23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication40.vcxproj -> C:\Users\dell\source\repos\ConsoleApplication40\Debug\ConsoleApplication40.exe
